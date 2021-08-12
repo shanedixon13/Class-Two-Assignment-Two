@@ -1,0 +1,12 @@
+.header {
+  color: darkgreen;
+  text-align: center;
+  text-decoration: underline;
+}
+    html {
+    background-color: black;
+}
+
+p {
+    color: grey;
+}
